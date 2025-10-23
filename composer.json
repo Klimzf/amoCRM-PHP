@@ -1,0 +1,8 @@
+{
+    "require": {
+        "google/apiclient": "^2.12"
+    },
+    "autoload": {
+        "files": ["config/config.php"]
+    }
+}
