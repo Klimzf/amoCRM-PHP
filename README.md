@@ -185,4 +185,6 @@ sudo crontab -e
 #Команда
 * * * * * /usr/bin/php -f /путь/к/http_amocrm/scripts/sync.php linux >/dev/null 2>&1
 ```
+Так же можно запустить ее и через windows, если в crontab не хочеться добавлять
+
 
